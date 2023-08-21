@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,unit_price
+Помидоры,TRUE,5000,5
+Огурцы,FALSE,12,15000
+Перец,FALSE,1000,120

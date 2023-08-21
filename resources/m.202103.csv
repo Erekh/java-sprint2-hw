@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,unit_price
+Борщ,FALSE,5000,5
+Солянка,FALSE,12,15000
+Гуляш,TRUE,1,1000
